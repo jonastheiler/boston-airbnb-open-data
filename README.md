@@ -1,6 +1,6 @@
-# Analysis of Boston Airbnb Data Set
+# Analysis of Boston Airbnb Open Data
 
-## Table of contents
+## Table of Contents
 
 1. [Motivation](#motivation)
 2. [About the Dataset](#data)
