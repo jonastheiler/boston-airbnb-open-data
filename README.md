@@ -26,3 +26,7 @@ The aim was to answer at least 3 business related questions about the dataset. I
 The main results can be found in the following post:
 
 ## Acknowledgements <a name="acknowledgements"></a>
+
+The data is available on:
+
+The code of my project is open source an can be used by everone.
