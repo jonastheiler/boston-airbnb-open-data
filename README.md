@@ -9,24 +9,23 @@
 
 ## Motivation <a name="motivation"></a>
 
-Attending the nanodegree program on Udacity, the aim of project 1 was to work with a dataset of you choice. 
+Currently I am participating the [Data Scientist Nanodegree programm](https://www.udacity.com/course/data-scientist-nanodegree--nd025) at Udacity. The first goal of the course was to work with a data set of your choice. It was a good exercise to get better at using Pandas, Matplotlib and Seaborn. At the end you had to formulate 3-5 business questions whose answers you took from the dataset. I decided to work with the dataset [Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston) from [Kaggle](https://www.kaggle.com/). The dataset is a good choice for beginners and contains some interesting correlations.
 
 ## About the Dataset <a name="data"></a>
 
-I decided to use only the file listing.csv. 
+The dataset consists of 3 files: calendar.csv, listings.csv and reviews.csv. Within the framework of this project I decided to work only with listings.csv. The file does have a size of 3585 rows and 95 columns.
 
 ## Results <a name="results"></a>
 
-The aim was to answer at least 3 business related questions about the dataset. I tried to answer following questions:
+The aim was to answer at least 3 business questions concerning the dataset. Following questions were of interest:
 
-1. Which
-2. Which
-3. What
+1. Which property type is listed most often and which has the highest average price?
+2. What are the most expensive neighborhoods and what is distribution per neighborhood in terms of price?
+3. Which neighborhoods are listed the most?
+4. Is it possible to create a model that gives an indication of the price with the right input data?
 
-The main results can be found in the following post:
+The main findings of the results can be found here.
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
-The data is available on:
-
-The code of my project is open source an can be used by everone.
+I would like to thank the team at Udacity in advance and look forward to hearing back soon. Any code you find in this repository is freely available to you.
