@@ -20,7 +20,7 @@ The dataset consists of 3 files: calendar.csv, listings.csv and reviews.csv. Wit
 The aim was to answer at least 3 business questions concerning the dataset. Following questions were of interest:
 
 1. Which property type is listed most often and which has the highest average price?
-2. What are the most expensive neighborhoods and what is distribution per neighborhood in terms of price?
+2. What are the most expensive neighbourhoods and what is distribution per neighbourhood in terms of price?
 3. Which neighborhoods are listed the most?
 4. Is it possible to create a model that gives an indication of the price with the right input data?
 
