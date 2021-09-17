@@ -5,7 +5,7 @@
 1. [Motivation](#motivation)
 2. [About the Dataset](#data)
 3. [Results](#results)
-4. [Acknowledgements](acknowledgements)
+4. [Acknowledgements](#acknowledgements)
 
 ## Motivation <a name="motivation"></a>
 
