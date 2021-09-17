@@ -25,7 +25,7 @@ The aim was to answer at least 3 business questions concerning the dataset. Foll
 2. What are the most expensive neighbourhoods and what is the distribution per neighbourhood in terms of price?
 3. Is it possible to create a model that gives an indication of the price with the right input data?
 
-The main findings of the results can be found here.
+The main findings of the results can be found in the Medium Post here.
 
 ## Acknowledgements <a name="acknowledgements"></a>
 
