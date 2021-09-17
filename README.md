@@ -15,7 +15,7 @@ Currently I am participating the [Data Scientist Nanodegree](https://www.udacity
 
 The dataset consists of 3 files: calendar.csv, listings.csv and reviews.csv. Within the framework of this project I decided to work only with listings.csv. The file does have a size of 3585 rows and 95 columns.
 
-After a first overview of the dataset **(Data Understanding Part I)**, I decided to proceed with the data preparation. As you can see in the Jupyter Notebook, it was necessary to delete columns, to fill others with the mean and to delete individual rows again (missing object values and outliers at "price"). In a next step, I looked at the data again and created the plots of interest (Data Understanding Part II).
+After a first overview of the dataset **(Data Understanding Part I)**, I decided to proceed with the **Data Preparation**. As you can see in the Jupyter Notebook, it was necessary to delete columns, to fill others with the mean and to delete individual rows again (missing object values and outliers at "price"). In a next step, I looked at the data again and created the plots of interest **(Data Understanding Part II)**.
 
 ## Results <a name="results"></a>
 
