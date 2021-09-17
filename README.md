@@ -9,7 +9,7 @@
 
 ## Motivation <a name="motivation"></a>
 
-Currently I am participating the [Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) programm at Udacity. The first goal of the course was to work with a dataset of your choice. It was a good exercise to get better at using Pandas, Matplotlib and Seaborn. At the end you had to formulate 3-5 business questions whose answers you took from the dataset. I decided to work with the dataset [Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston) from [Kaggle](https://www.kaggle.com/). The dataset is a good choice for beginners and contains some interesting correlations.
+Currently I am participating the [Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) programm at [Udacity](https://www.udacity.com/). The first goal of the course was to work with a dataset of your choice. It was a good exercise to get better at using Pandas, Matplotlib and Seaborn. At the end you had to formulate 3-5 business questions whose answers you took from the dataset. I decided to work with the dataset [Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston) from [Kaggle](https://www.kaggle.com/). The dataset is a good choice for beginners and contains some interesting correlations.
 
 ## About the Dataset <a name="data"></a>
 
